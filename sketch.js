@@ -1,3 +1,5 @@
+//애벌레가 바나나 우유를 먹기를 ...
+
 let ds;
 let dsT;
 let heart;
